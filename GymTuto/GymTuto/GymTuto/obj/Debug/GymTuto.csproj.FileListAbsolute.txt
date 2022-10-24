@@ -1,0 +1,16 @@
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\bin\Debug\GymTuto.exe.config
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\bin\Debug\GymTuto.exe
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\bin\Debug\GymTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\bin\Debug\Guna.UI2.dll
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.csprojResolveAssemblyReference.cache
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.Login.resources
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.MainForm.resources
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.Properties.Resources.resources
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.csproj.GenerateResource.Cache
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.exe
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.AddMember.resources
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.Payment.resources
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.UpdateDelete.resources
+c:\users\afwadmin\documents\visual studio 2015\VoteSystemCsharp\GymTuto\GymTuto\obj\Debug\GymTuto.ViewMembers.resources
